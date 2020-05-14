@@ -1,6 +1,6 @@
 # Design-Patterns
 
-Coffee Shop application
+Coffee Shop Application
 
 DESIGN PATTERNS used: 
 1 creational - Singleton     
